@@ -6,7 +6,7 @@ class ButtonsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Heeeelloooo")),
+      appBar: AppBar(title: Text("Buttons")),
       body: Placeholder(),
     );
   }
