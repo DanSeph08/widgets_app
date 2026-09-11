@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp.router(
       routerConfig: appRouter,
       title: 'Flutter Demo',
-      theme: AppTheme(selectedColor: 1).getTheme(),
+      theme: AppTheme(selectedColor: 3).getTheme(),
       debugShowCheckedModeBanner: false,
 
       // home: HomeScreen(), Primer pantalla de home de forma nativa
